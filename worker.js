@@ -1,18 +1,18 @@
 export const api = {
   icon: '🚀',
-  name: 'templates.do',
-  description: 'Cloudflare Worker Template',
-  url: 'https://templates.do/api',
-  type: 'https://apis.do/templates',
+  name: 'encrypt.do',
+  description: 'Simple Encryption API',
+  url: 'https://encrypt.do/api',
+  type: 'https://apis.do/crypto',
   endpoints: {
-    listCategories: 'https://templates.do/api',
-    getCategory: 'https://templates.do/:type',
+    listCategories: 'https://encrypt.do/api',
+    getCategory: 'https://encrypt.do/:type',
   },
-  site: 'https://templates.do',
-  login: 'https://templates.do/login',
-  signup: 'https://templates.do/signup',
-  subscribe: 'https://templates.do/subscribe',
-  repo: 'https://github.com/drivly/templates.do',
+  site: 'https://encrypt.do',
+  login: 'https://encrypt.do/login',
+  signup: 'https://encrypt.do/signup',
+  subscribe: 'https://encrypt.do/subscribe',
+  repo: 'https://github.com/drivly/encrypt.do',
 }
 
 export const gettingStarted = [
@@ -21,7 +21,7 @@ export const gettingStarted = [
 ]
 
 export const examples = {
-  listItems: 'https://templates.do/worker',
+  listItems: 'https://encrypt.do/worker',
 }
 
 export default {
