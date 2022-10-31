@@ -1,4 +1,4 @@
-# worker.templates.do - Templates
+# Encrypt.do - Simple Encryption API
 
 ## Getting Started
 
