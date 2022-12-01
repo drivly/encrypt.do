@@ -11,7 +11,7 @@ Then interactively use the API at: <https://encrypt.do/api>
   "api": {
     "icon": "🚀",
     "name": "encrypt.do",
-    "description": "Cloudflare Worker Template",
+    "description": "Simple Encryption API",
     "url": "https://encrypt.do/api",
     "type": "https://apis.do/crypto",
     "endpoints": {
