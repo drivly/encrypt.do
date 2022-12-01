@@ -24,33 +24,8 @@ Then interactively use the API at: <https://encrypt.do/api>
     "subscribe": "https://encrypt.do/subscribe",
     "repo": "https://github.com/drivly/encrypt.do"
   },
-  "gettingStarted": [
-    "If you don't already have a JSON Viewer Browser Extension, get that first:",
-    "https://extensions.do"
-  ],
   "examples": {
     "listItems": "https://encrypt.do/worker"
-  },
-  "user": {
-    "authenticated": false,
-    "plan": "🛠 Build",
-    "browser": "Safari",
-    "os": "Mac OS",
-    "ip": "2606:54c0:76a0:1d18::e:fe",
-    "isp": "iCloud Private Relay",
-    "flag": "🇺🇸",
-    "zipcode": "94088",
-    "city": "Sunnyvale",
-    "metro": "San Francisco-Oak-San Jose",
-    "region": "California",
-    "country": "United States",
-    "continent": "North America",
-    "requestId": "751b42735f76e206-ORD",
-    "localTime": "9/28/2022, 1:55:20 AM",
-    "timezone": "America/Los_Angeles",
-    "edgeLocation": "Chicago",
-    "edgeDistanceMiles": 1833,
-    "recentInteractions": 10
   }
 }
 ```
