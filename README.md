@@ -4,32 +4,32 @@
 
 If you don't already have a browser extension to pretty-print JSON and make links clickable, start by installing that: <https://extensions.do>
 
-Then interactively use the API at: <https://templates.do/api>
+Then interactively use the API at: <https://encrypt.do/api>
 
 ```json
 {
   "api": {
     "icon": "🚀",
-    "name": "templates.do",
+    "name": "encrypt.do",
     "description": "Cloudflare Worker Template",
-    "url": "https://templates.do/api",
-    "type": "https://apis.do/templates",
+    "url": "https://encrypt.do/api",
+    "type": "https://apis.do/crypto",
     "endpoints": {
-      "listCategories": "https://templates.do/api",
-      "getCategory": "https://templates.do/:type"
+      "listCategories": "https://encrypt.do/api",
+      "getCategory": "https://encrypt.do/:type"
     },
-    "site": "https://templates.do",
-    "login": "https://templates.do/login",
-    "signup": "https://templates.do/signup",
-    "subscribe": "https://templates.do/subscribe",
-    "repo": "https://github.com/drivly/templates.do"
+    "site": "https://encrypt.do",
+    "login": "https://encrypt.do/login",
+    "signup": "https://encrypt.do/signup",
+    "subscribe": "https://encrypt.do/subscribe",
+    "repo": "https://github.com/drivly/encrypt.do"
   },
   "gettingStarted": [
     "If you don't already have a JSON Viewer Browser Extension, get that first:",
     "https://extensions.do"
   ],
   "examples": {
-    "listItems": "https://templates.do/worker"
+    "listItems": "https://encrypt.do/worker"
   },
   "user": {
     "authenticated": false,
